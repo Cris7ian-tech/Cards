@@ -6,4 +6,5 @@ Aqui lo dejo para aquel que este necesitando una maquetita basica como para come
 
 ## html-css grid
 
-En este punto, me encuentro aprendiendo Css grid y diseño responsive, prometo seguir mejorando.
+En este punto, me encuentro aprendiendo Css grid y diseño responsive.
+Perdon por tan poco, prometo seguir mejorando.
